@@ -1,7 +1,7 @@
 ### ¡Bienvenido a mi Github! ☕
 
 Soy desarrollador web orientado principalmente al front-end y con conocimientos solidos en back-end.
-Tengo 20 años y desde muy joven me senti interesado por el mundo de la programación, aprendiendo
+Tengo 22 años y desde muy joven me senti interesado por el mundo de la programación, aprendiendo
 varios lenguajes de programación como Php, javascript y python y usando frameworks como React y Vue.
 Aquí podras ver los repositorios de distintos proyectos que he desarrollado.
 
